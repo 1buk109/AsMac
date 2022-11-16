@@ -1,0 +1,8 @@
+numpy
+Cython==0.29.24
+jupyter==1.0.0
+matplotlib
+pandas
+torch==1.11.0
+plotly
+sklearn
